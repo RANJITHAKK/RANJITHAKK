@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RANJITHAKK
+- 👋 Hi, I’m @RANJITHA K K
 - 👀 I’m interested in Web Technologies
 - 🌱 I’m currently learning MEAN Stack Development
 - 📫 How to reach me www.linkedin.com/in/ranjitha-krishnan-k
